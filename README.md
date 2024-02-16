@@ -22,6 +22,6 @@ https://situsinversus.github.io/Admin_Page/
 
 https://situsinversus.github.io/Sign-Up-Form/
 
-https://situsinversus.github.io/Calculator/
+https://situsinversus.github.io/Odin-Project_sign_up_form/
 
-https://situsinversus.github.io/Etch-a-Sketch/
+https://situsinversus.github.io/Calculator/
