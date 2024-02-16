@@ -19,6 +19,9 @@ My Goal is to master HTML/CSS/JS and learn how to develope projects in a systema
 ### Some projects
 
 https://situsinversus.github.io/Admin_Page/
+
 https://situsinversus.github.io/Sign-Up-Form/
+
 https://situsinversus.github.io/Calculator/
+
 https://situsinversus.github.io/Etch-a-Sketch/
